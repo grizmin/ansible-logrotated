@@ -85,7 +85,8 @@ MIT
 
 * Mark van Driel
 * Mischa ter Smitten
+* me :)
 
 #### Feedback, bug-reports, requests, ...
 
-Are [welcome](https://github.com/Oefenweb/ansible-logrotated/issues)!
+Are [welcome](https://github.com/grizmin/ansible-logrotated)!

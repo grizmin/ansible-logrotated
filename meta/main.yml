@@ -1,7 +1,7 @@
 # meta file for logrotated
 ---
 galaxy_info:
-  author: Mischa ter Smitten
+  author: Mischa ter Smitten, grizmin fork
   company: Oefenweb.nl B.V.
   description: Manage logrotated.d in Debian-like systems
   license: MIT
